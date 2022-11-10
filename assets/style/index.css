@@ -472,4 +472,10 @@ div .my-icons i {
         font-size: 20px;
     }
 
+    div .footer2 ul {
+        list-style: none;
+        letter-spacing: 1px;
+        font-size: 5px;
+    }
+
 }
