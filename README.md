@@ -1,3 +1,3 @@
 ## Website Live
 
-[Check out live demo here](https://indercheema.github.io/Sigle-Page-Website/)
+[Check out here](https://indercheema.github.io/Sigle-Page-Website/)
