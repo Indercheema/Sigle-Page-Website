@@ -277,6 +277,10 @@ div.box > div + p  {
     padding: 20px;
 }
 
+img + img {
+    margin-top: 20px;
+}
+
 .row {
     display: flex;
     flex-flow: row wrap;
@@ -320,6 +324,13 @@ div.box > div + p  {
 h2 {
     font-weight: 400;
     font-size: 28px;
+}
+
+.skills {
+    text-decoration: underline;
+    text-decoration-color: var(--app-green);
+    text-underline-offset: 2px;
+    text-underline-position: under;
 }
 
 
