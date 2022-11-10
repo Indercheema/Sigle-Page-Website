@@ -193,7 +193,7 @@ section.overlay p + p {
 
 .btn:hover , .btn2:hover , .more:hover{
     background-color: #0035e9;
-    transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.1s ease-in-out;
 }
 
 
